@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747105923539",
+    "project_id": "azulene-nebula",
+    "storage_bucket": "azulene-nebula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747105923539:android:97f3bc576902198b83bf26",
+        "android_client_info": {
+          "package_name": "com.crazylabs.hair.dye.challeng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747105923539-9khaab0arkuvqos0k4ct3b6ut7utr6fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAQppjNzxQ60yR7tpdgB6gn7B5DdTU6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747105923539-9khaab0arkuvqos0k4ct3b6ut7utr6fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
